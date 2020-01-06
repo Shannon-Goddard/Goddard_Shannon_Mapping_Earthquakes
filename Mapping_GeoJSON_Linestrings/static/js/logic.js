@@ -21,7 +21,7 @@ let baseMaps = {
 let map = L.map('mapid', {
 	center: [40.0, -80.0],
 zoom: 2,
-	layers: [streets]
+	layers: [light]
 })
 
 // Pass our map layers into our layers control and add the layers control to the map.
@@ -30,6 +30,11 @@ L.control.layers(baseMaps).addTo(map);
 // Accessing the Toronto airline routes GeoJSON URL.
 let torontoData = "https://raw.githubusercontent.com/Shannon-Goddard/Goddard_Shannon_Mapping_Earthquakes/master/torontoRoutes.json";
 
+// Create a style for the lines.
+let myStyle = {
+	color: "#ffffa1",
+	weight: 2
+}
 // Grabbing our GeoJSON data.
 d3.json(torontoData).then(function(data) {
     console.log(data);
