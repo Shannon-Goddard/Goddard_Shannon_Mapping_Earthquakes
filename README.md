@@ -36,9 +36,10 @@ We used the Leaflet library to plot the data on a [Mapbox map](https://www.mapbo
 - Render maps on a local server.
 
 ## Summary  
-### logicStep1
+### [logicStep1.js](/Earthquakes_past7days/static/js/logicStep1.js)
 Map all recorded earthquakes in the past seven days.  
-<img align="left" width="550" src="/pics/step1.png">
+<img align="left" width="550" src="/pics/step1.png"><br/>
+[logicStep1.js](/Earthquakes_past7days/static/js/logicStep1.js)
 <br/>
 <br/>
 <br/>
