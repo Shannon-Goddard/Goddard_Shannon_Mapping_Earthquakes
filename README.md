@@ -83,10 +83,6 @@ The final piece we added to the map: a legend for the color range of the earthqu
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ## Challenge Overview  
 In this challenge, we added a third map style as an additional tile layer. We ,also, added tectonic plate GeoJSON data to the map to illustrate the relationship between the location and frequency of seismic activity and tectonic plates.To illustrate the severity of the earthquakes in relation to the tectonic plates, we logged in to GitHub and accessed the tectonic plate data from this [GitHub repository](https://github.com/fraxen/tectonicplates). We, also, made an API call to the tectonic plate data using d3.json(), and then added the data as an overlay to the map using the L.geoJSON() layer. In addition to the streets and satelliteStreets maps, we added a third map style of our choosing. All map styles were added to the base layer so that they showed up on the map to allow the user to change which layers are visible.
 
