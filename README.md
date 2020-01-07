@@ -59,11 +59,6 @@ Although, the size of the earthquake data based on magnitude looks great, it’s
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ### logicStep4  
 Have the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.  
 <img align="right" width="400" height="200" src="/pics/step4.png">
