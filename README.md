@@ -36,21 +36,26 @@ We used the Leaflet library to plot the data on a [Mapbox map](https://www.mapbo
 - Render maps on a local server.
 
 ## Summary
-### logicStep1  
+### logicStep1
 Map all recorded earthquakes in the past seven days.  
-
+<img align="left" width="400" height="200" src="/pics/step1.png">
+<br/>
 ### logicStep2  
-As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data and varied the radius of each earthquake based on the magnitude.
-     
+As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data and varied the radius of each earthquake based on the magnitude.  
+<img align="left" width="400" height="200" src="/pics/step2.png">
+<br/>
 ### logicStep3  
-Although, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake.
-     
+Although, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake.  
+<img align="left" width="400" height="200" src="/pics/step3.png">
+<br/>     
 ### logicStep4  
-Have the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.
-
+Have the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.  
+<img align="left" width="400" height="200" src="/pics/step4.png">
+<br/>
 ### logicStep5  
-The final piece we added to the map: a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.
-
+The final piece we added to the map: a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.  
+<img align="left" width="400" height="200" src="/pics/step5.png">
+<br/>
 ## Challenge Overview  
 In this challenge, we added a third map style as an additional tile layer. We ,also, added tectonic plate GeoJSON data to the map to illustrate the relationship between the location and frequency of seismic activity and tectonic plates.To illustrate the severity of the earthquakes in relation to the tectonic plates, we logged in to GitHub and accessed the tectonic plate data from this [GitHub repository](https://github.com/fraxen/tectonicplates). We, also, made an API call to the tectonic plate data using d3.json(), and then added the data as an overlay to the map using the L.geoJSON() layer. In addition to the streets and satelliteStreets maps, we added a third map style of our choosing. All map styles were added to the base layer so that they showed up on the map to allow the user to change which layers are visible.
 
