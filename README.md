@@ -48,6 +48,10 @@ As a first step in making the earthquake data more visually appealing, we added 
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ### logicStep3  
 Although, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake.  
 <img align="left" width="400" height="200" src="/pics/step3.png">
