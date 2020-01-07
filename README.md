@@ -42,7 +42,7 @@ Map all recorded earthquakes in the past seven days.
 <br/>
 ### logicStep2  
 As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data and varied the radius of each earthquake based on the magnitude.  
-<img align="left" width="400" height="200" src="/pics/step2.png">
+<img align="right" width="400" height="200" src="/pics/step2.png">
 <br/>
 <br/>
 <br/>
@@ -66,7 +66,7 @@ Although, the size of the earthquake data based on magnitude looks great, it’s
 <br/>
 ### logicStep4  
 Have the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.  
-<img align="left" width="400" height="200" src="/pics/step4.png">
+<img align="right" width="400" height="200" src="/pics/step4.png">
 <br/>
 <br/>
 <br/>
