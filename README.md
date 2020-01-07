@@ -49,9 +49,13 @@ Map all recorded earthquakes in the past seven days.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 ### logicStep2  
 As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data and varied the radius of each earthquake based on the magnitude.  
 <img align="left" width="550" src="/pics/step2.png">
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -75,6 +79,8 @@ Although, the size of the earthquake data based on magnitude looks great, it’s
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 ### logicStep4  
 Have the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.  
 <img align="left" width="550" src="/pics/step4.png">
@@ -88,9 +94,13 @@ Have the earthquake data as an overlay on both the Streets and Satellite tile la
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 ### logicStep5  
 The final piece we added to the map: a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.
 <img align="left" width="550" src="/pics/step5.png">
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
