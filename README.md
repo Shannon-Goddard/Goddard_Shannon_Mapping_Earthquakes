@@ -71,14 +71,13 @@ Have the earthquake data as an overlay on both the Streets and Satellite tile la
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ### logicStep5  
 The final piece we added to the map: a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.  
 <img align="left" width="400" height="200" src="/pics/step5.png">
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
