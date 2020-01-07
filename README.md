@@ -47,7 +47,7 @@ We used the Leaflet library to plot the data on a [Mapbox map](https://www.mapbo
 <br/>
 <br/>
 ### logicStep2.js  
-As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data in [logicStep2.js](/Earthquakes_past7days/static/js/logicStep1.js) and varied the radius of each earthquake based on the magnitude.  
+As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data in [logicStep2.js](/Earthquakes_past7days/static/js/logicStep2.js) and varied the radius of each earthquake based on the magnitude.  
 <img align="left" width="550" src="/pics/step2.png">
 <br/>
 <br/>
@@ -62,7 +62,7 @@ As a first step in making the earthquake data more visually appealing, we added 
 <br/>
 <br/>
 ### logicStep3.js  
-Although, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake in [logicStep3.js](/Earthquakes_past7days/static/js/logicStep1.js).  
+Although, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake in [logicStep3.js](/Earthquakes_past7days/static/js/logicStep3.js).  
 <img align="left" width="550" src="/pics/step3.png">
 <br/>
 <br/>
@@ -77,7 +77,7 @@ Although, the size of the earthquake data based on magnitude looks great, it’s
 <br/>
 <br/>
 ### logicStep4.js
-[logicStep4.js](/Earthquakes_past7days/static/js/logicStep1.js) has the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.  
+[logicStep4.js](/Earthquakes_past7days/static/js/logicStep4.js) has the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.  
 <img align="left" width="550" src="/pics/step4.png">
 <br/>
 <br/>
@@ -92,10 +92,8 @@ Although, the size of the earthquake data based on magnitude looks great, it’s
 <br/>
 <br/>
 ### logicStep5.js  
-The final piece we added to the map is in [logicStep5.js](/Earthquakes_past7days/static/js/logicStep1.js): a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.
+The final piece we added to the map is in [logicStep5.js](/Earthquakes_past7days/static/js/logicStep5.js): a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.
 <img align="left" width="550" src="/pics/step5.png">
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
