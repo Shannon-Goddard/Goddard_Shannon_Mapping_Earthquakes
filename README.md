@@ -38,7 +38,7 @@ We used the Leaflet library to plot the data on a [Mapbox map](https://www.mapbo
 ## Summary
 ### logicStep1
 Map all recorded earthquakes in the past seven days.  
-<img align="left" width="400" height="200" src="/pics/step1.png">
+<img align="left" width="450" src="/pics/step1.png">
 <br/>
 ### logicStep2  
 As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data and varied the radius of each earthquake based on the magnitude.  
