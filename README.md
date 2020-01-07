@@ -1,18 +1,13 @@
 ![Header](/pics/header.png)
-# Goddard_Shannon_Mapping_Earthquakes
 
 #### Table of Contents
 
 [Project Overview](#project-overview)  
 [Resources](#resources)  
 [Objectives](#objectives)  
-[Summary](#summary)  
-- [](#)  
-- [](#)  
+[Summary](#summary)   
 [Challenge Overview](#challenge-overview)  
-[Challenge Summary](#challenge-summary)  
-- [](#)  
-- [](#)  
+[Challenge Summary](#challenge-summary)   
 [Limitations](#limitations)
 
 ## Project Overview
