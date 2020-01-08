@@ -132,6 +132,18 @@ In this challenge, we added a third map style as an additional tile layer. We ,a
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img align="left" width="290" src="/pics/quakes.png"><img align="left" width="290" src="/pics/plates.png"><img align="left" width="290" src="/pics/none.png">
 <br/>
 <br/>
