@@ -122,13 +122,10 @@ In this challenge, we added a third map style as an additional tile layer. We ,a
 For the challenge, a third map style is added to the logic.js file and has the following:
 - It is added to the baseMaps.
 - When selected the map style is present on the map.
-- The earthquake and tectonic data are present on the map style.
+- The earthquake and tectonic data are present on the map style.<br/>
 <br/>
 <br/>
-<br/>
-<img align="left" width="260" src="/pics/street.png"><img align="left" width="260" src="/pics/satellite.png"><img align="left" width="260" src="/pics/dark.png">
-<br/>
-<br/>
+<img align="left" width="260" src="/pics/street.png"><img align="left" width="260" src="/pics/satellite.png"><img align="left" width="260" src="/pics/dark.png"><br/>
 <br/>
 <br/>
 <br/>
@@ -151,14 +148,13 @@ For the challenge, a third map style is added to the logic.js file and has the f
 <br/>
 <br/>
 <br/>
-The tectonic data is added to the logic.js file and has the following:
-- It is added to the overlay
-- It shows up on any map with the earthquake data by default.
-- The lines are styled in a bright dark color.
 <br/>
+The tectonic data is added to the logic.js file and has the following:  
+- It is added to the overlay  
+- It shows up on any map with the earthquake data by default.  
+- The lines are styled in a bright dark color.<br/>
 <br/>
-<img align="left" width="260" src="/pics/quakes.png"><img align="left" width="260" src="/pics/plates.png"><img align="left" width="260" src="/pics/none.png">
-<br/>
+<img align="left" width="260" src="/pics/quakes.png"><img align="left" width="260" src="/pics/plates.png"><img align="left" width="260" src="/pics/none.png"><br/>
 <br/>
 <br/>
 <br/>
