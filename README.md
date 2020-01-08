@@ -119,9 +119,31 @@ In this challenge, we added a third map style as an additional tile layer. We ,a
 - Add a third map style to allow the user to select from three different maps.
 
 ## Challenge Summary
-<img align="left" width="300" src="/pics/street.png"><img align="left" width="300" src="/pics/satellite.png"><img align="left" width="300" src="/pics/dark.png">
+<img align="left" width="295" src="/pics/street.png"><img align="left" width="295" src="/pics/satellite.png"><img align="left" width="295" src="/pics/dark.png">
 <br/>
-<img align="left" width="300" src="/pics/quakes.png"><img align="left" width="300" src="/pics/plates.png"><img align="left" width="300" src="/pics/none.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<img align="left" width="295" src="/pics/quakes.png"><img align="left" width="295" src="/pics/plates.png"><img align="left" width="295" src="/pics/none.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <p align="center">
   <img width="900" src="/pics/street.png">
