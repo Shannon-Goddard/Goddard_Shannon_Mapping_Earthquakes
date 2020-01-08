@@ -153,7 +153,11 @@ The tectonic data is added to the [logic.js](/Earthquake_Challenge/static/js/log
 
 Adding an overlay for the earthquakes and tectonic plates allows the viewer:
 - to toggle off and on the earthquake data 
-- to toggle off and on the tectonic data. 
+- to toggle off and on the tectonic data.  
+<br/>
+<br/>
+<br/>
+<br/>  
 
 The streets map is the default map. The default setting will always show both sets of data.
 <p align="center">
