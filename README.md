@@ -91,7 +91,7 @@ Although, the size of the earthquake data based on magnitude looks great, it’s
 <br/>
 <br/>
 ### logicStep5.js  
-The final piece we added to the map is in [logicStep5.js](/Earthquakes_past7days/static/js/logicStep5.js): a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.
+The final piece we added to the map in [logicStep5.js](/Earthquakes_past7days/static/js/logicStep5.js) is a legend for the color range of the earthquakes. A legend provides information needed for the colors of the earthquakes to make sense to the viewer without having to click on each marker.
 <img align="left" width="550" src="/pics/step5.png">
 <br/>
 <br/>
