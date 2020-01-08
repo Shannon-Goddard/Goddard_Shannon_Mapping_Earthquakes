@@ -8,7 +8,6 @@
 [Summary](#summary)   
 [Challenge Overview](#challenge-overview)  
 [Challenge Summary](#challenge-summary)   
-[Limitations](#limitations)
 
 ## Project Overview
 In this module, we used the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. Each earthquake was visually represented by a circle and color, where a higher magnitude has a larger diameter and is darker in color. In addition, each earthquake has a popup marker that, when clicked, shows the magnitude of the earthquake and the location of the earthquake. 
@@ -119,27 +118,14 @@ In this challenge, we added a third map style as an additional tile layer. We ,a
 - Add the tectonic plate data as an overlay with the earthquake data.
 - Add a third map style to allow the user to select from three different maps.
 
-## Challenge Summary  
-#### Instructions
-To complete this challenge, follow these steps:
-- Create a new folder on your Mapping_Earthquakes repository and name it “Earthquake_Challenge.”
-- Copy the folders and files from your Earthquakes_past7days branch and add them to the Earthquake_Challenge folder. The folder should have this structure: 
--- Earthquake_Challenge folder 
--- index.html
--- static 
--- css 
--- style.css
--- js 
--- config.js
--- logic.js
-- Use the GeoJSON/PB2002_boundaries.json data from the GitHub repository for the tectonic plate data. You’ll need to log into GitHub to access the GeoJSON data.
-- Place the d3.json() call with the L.geoJSON() layer for the tectonic plate data at the end of your code from your Earthquakes_past7days branch.
-- Style the lines with a strong, bright color so the lines show up on the satellite map and are not too light to be seen on the lighter maps.
-- Create the tectonic plate layer for the map.
-- Add the tectonic plate layer to the overlays so that they show up in the tile layer, as shown in the image below.
-- Add the tectonic plate and earthquake data to the map for any map style choice.
-- Edit the base layer so that it holds all three maps.
-- Make the streets map the default map.
-## Limitations  
+## Challenge Summary
+<img align="left" width="400" src="/pics/street.png"><img align="left" width="400" src="/pics/satellite.png"><img align="left" width="400" src="/pics/dark.png">
+<br/>
+<img align="left" width="400" src="/pics/quakes.png"><img align="left" width="400" src="/pics/plates.png"><img align="left" width="400" src="/pics/none.png">
+<br/>
+<p align="center">
+  <img width="900" height="400" src="/pics/street.png">
+</p>
+  
 
 
