@@ -133,11 +133,6 @@ For the challenge, a third map style is added to the logic.js file and has the f
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>  
 
 The tectonic data is added to the logic.js file and has the following:  
@@ -148,10 +143,6 @@ The tectonic data is added to the logic.js file and has the following:
 <img align="left" width="260" src="/pics/quakes.png"><br/>
 <img align="left" width="260" src="/pics/plates.png"><br/>
 <img align="left" width="260" src="/pics/none.png"><br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
