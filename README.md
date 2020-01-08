@@ -119,7 +119,7 @@ In this challenge, we added a third map style as an additional tile layer. We ,a
 - Add a third map style to allow the user to select from three different maps.
 
 ## Challenge Summary
-For the challenge, a third map style is added to the logic.js file and has the following:
+For the challenge, a third map style is added to the [logic.js](/Earthquake_Challenge/static/js/logic.js) file and has the following:
 - It is added to the baseMaps.
 - When selected the map style is present on the map.
 - The earthquake and tectonic data are present on the map style.<br/>
@@ -135,7 +135,7 @@ For the challenge, a third map style is added to the logic.js file and has the f
 <br/>
 <br/>  
 
-The tectonic data is added to the logic.js file and has the following:  
+The tectonic data is added to the [logic.js](/Earthquake_Challenge/static/js/logic.js) file and has the following:  
 - It is added to the overlay  
 - It shows up on any map with the earthquake data by default.  
 - The lines are styled in a bright dark color.<br/>
@@ -150,12 +150,10 @@ The tectonic data is added to the logic.js file and has the following:
 <br/>
 <br/>
 <br/>
-<br/>  
 
-Make the streets map the default map.
+Adding an overlay for the earthquakes and tectonic plates allows the viewer to toggle off and on the earthquake data and/or the tectonic data. 
+
+The streets map is the default map.
 <p align="center">
   <img width="900" src="/pics/street.png">
 </p>
-  
-
-
