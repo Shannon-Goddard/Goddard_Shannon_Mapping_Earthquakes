@@ -138,24 +138,16 @@ For the challenge, a third map style is added to the logic.js file and has the f
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/>  
+
 The tectonic data is added to the logic.js file and has the following:  
 - It is added to the overlay  
 - It shows up on any map with the earthquake data by default.  
 - The lines are styled in a bright dark color.<br/>
 <br/>
-<img align="left" width="260" src="/pics/quakes.png"><img align="left" width="260" src="/pics/plates.png"><img align="left" width="260" src="/pics/none.png"><br/>
+<img align="left" width="260" src="/pics/quakes.png"><br/>
+<img align="left" width="260" src="/pics/plates.png"><br/>
+<img align="left" width="260" src="/pics/none.png"><br/>
 <br/>
 <br/>
 <br/>
@@ -167,11 +159,8 @@ The tectonic data is added to the logic.js file and has the following:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/>  
+
 Make the streets map the default map.
 <p align="center">
   <img width="900" src="/pics/street.png">
