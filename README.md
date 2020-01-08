@@ -159,7 +159,7 @@ Adding an overlay for the earthquakes and tectonic plates allows the viewer:
 <br/>
 <br/>  
 
-The streets map is the default map. The default setting will always show both sets of data.
+The streets map is the default map. The default setting will always show both sets of data, earthquakes and tectonic.
 <p align="center">
   <img width="900" src="/pics/street.png">
 </p>
