@@ -125,6 +125,7 @@ For the challenge, a third map style is added to the logic.js file and has the f
 - The earthquake and tectonic data are present on the map style.
 <br/>
 <br/>
+<br/>
 <img align="left" width="260" src="/pics/street.png"><img align="left" width="260" src="/pics/satellite.png"><img align="left" width="260" src="/pics/dark.png">
 <br/>
 <br/>
