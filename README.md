@@ -7,7 +7,8 @@
 [Objectives](#objectives)  
 [Summary](#summary)   
 [Challenge Overview](#challenge-overview)  
-[Challenge Summary](#challenge-summary)   
+[Challenge Summary](#challenge-summary)  
+[Live Demo](https://shannon-goddard.github.io/Goddard_Shannon_Mapping_Earthquakes/)
 
 ## Project Overview
 In this module, we used the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. Each earthquake was visually represented by a circle and color, where a higher magnitude has a larger diameter and is darker in color. In addition, each earthquake has a popup marker that, when clicked, shows the magnitude of the earthquake and the location of the earthquake. 
@@ -162,4 +163,7 @@ Adding an overlay for the earthquakes and tectonic plates allows the viewer:
 The streets map is the default map. The default setting will always show both sets of data, earthquakes and tectonic.
 <p align="center">
   <img width="900" src="/pics/street.png">
-</p>
+</p>  
+
+## Live Demo
+View a [Live Demo](https://shannon-goddard.github.io/Goddard_Shannon_Mapping_Earthquakes/) of Mapping Earthquakes
